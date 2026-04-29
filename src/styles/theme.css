@@ -1,0 +1,35 @@
+/* ============================================================
+   THEME — Single source of truth
+   Change fonts/colors here → changes everywhere
+   ============================================================ */
+
+:root {
+  /* Colors */
+  --color-bg: #FADADD;
+  --color-bg-dark: #F5C6CB;
+  --color-envelope: #D4756B;
+  --color-envelope-flap: #E8A09A;
+  --color-envelope-shadow: rgba(0,0,0,0.15);
+  --color-letter-bg: #FFFAC0;
+  --color-letter-img-bg: #C8D8E4;
+  --color-button: #E57373;
+  --color-button-hover: #EF5350;
+  --color-button-text: #ffffff;
+  --color-text-dark: #333333;
+  --color-text-red: #CC0000;
+  --color-text-glow: #D94040;
+  --color-heart: #E57373;
+  --color-final-border: #D4A017;
+  --color-final-glow: rgba(204, 0, 0, 0.5);
+
+  /* Fonts */
+  --font-ui: 'Nunito', sans-serif;
+  --font-letter: 'Courier Prime', monospace;
+  --font-glow: 'Dancing Script', cursive;
+  --font-climax: 'Special Elite', cursive;
+
+  /* Sizes */
+  --border-radius-card: 20px;
+  --border-radius-btn: 50px;
+  --border-radius-img: 14px;
+}
